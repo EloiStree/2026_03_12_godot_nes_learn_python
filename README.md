@@ -7,3 +7,8 @@ https://github.com/EloiStree/2026_01_18_gdp_nes_controller_udp/tree/main
 
 Let's install GDExtension for Python.  
 And play games to learn the language basic.   
+
+
+- https://godotengine.org/asset-library/asset/3234
+- https://github.com/niklas2902/py4godot
+- https://github.com/niklas2902/py4godot-examples
