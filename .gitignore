@@ -1,0 +1,48 @@
+# ----------------------
+# Godot
+# ----------------------
+.import/
+.export/
+.export_presets.cfg
+*.translation
+
+# Godot editor files
+.godot/
+*.godot
+*.log
+
+
+# Mono/C# (sometimes appears even if unused)
+.mono/
+
+# ----------------------
+# Python
+# ----------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# ----------------------
+# OS junk
+# ----------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------
+# IDEs
+# ----------------------
+.vscode/
+.idea/
