@@ -13,3 +13,4 @@ And play games to learn the language basic.
 - https://godotengine.org/asset-library/asset/3234
 - https://github.com/niklas2902/py4godot
 - https://github.com/niklas2902/py4godot-examples
+- https://github.com/niklas2902/py4godot/wiki/API-Documentation
